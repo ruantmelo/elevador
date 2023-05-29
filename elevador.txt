@@ -1,0 +1,9 @@
+# Cada bloco vai ser uma lista encadeada de 300 itens
+# Cada posição da lista vai ser um elevador que vai estar ocupando o bloco naquele momento
+# Ao ocorrer uma movimentação, eu dou um shift na lista
+# Movimentações ocorrem a cada iteração do loop
+# Ao solicitar o andar é feito o calculo da rota do elevador
+# Como fazer o calculo da rota do elevador?
+# Faz um DFS, mas ao inves de só retornar
+
+
